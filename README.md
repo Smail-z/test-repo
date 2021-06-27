@@ -7,3 +7,6 @@ Test repository created for learning purposes
 - Create organised code with different files & folders
 
 ## 1.2 Temporary title
+
+## 1.3 Another sub-title
+This is only temporary
